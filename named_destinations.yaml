@@ -1,0 +1,23 @@
+home:
+  x: 0.0
+  y: 0.0
+  yaw: 0.0
+  description: Return home
+  mode: nav2
+  priority: false
+
+base:
+  x: 0.0
+  y: 0.0
+  yaw: 0.0
+  description: Return to base
+  mode: nav2
+  priority: false
+
+bridge:
+  x: -47.72488784790039
+  y: 0.291068971157074
+  yaw: 0.0
+  description: Go to bridge
+  mode: nav2
+  priority: false
